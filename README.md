@@ -13,7 +13,7 @@ This file must be compiled and run to use the application.
 
 **Test Files**
 - TestPassAll.java - Contains code that passes all stages of the MiniCompiler  
-- TestPassToSyntax.java - Contains code that passes Lexical Analysis but fails at Syntax Analysis  
+- TestPassToSyntax.java - Contains code that passes Lexical Analysis and Syntax Analysis but fails at Semantis Analysis
 - TestPassLexical.java - Contains code that passes Lexical Analysis only and fails at further stages  
 - TestPassNothing.java - Contains code that fails all stages of analysis  
 
