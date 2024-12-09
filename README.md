@@ -3,7 +3,7 @@ This project, created for TPL, demonstrates a basic compiler's workflow through 
 
 The additional files in this repository are test cases designed to evaluate the functionality and robustness of the MiniCompiler.
 
-# Files in the Repository
+## Files in the Repository
 **MiniCompiler.java** - This is the main program that provides the user interface and performs the following tasks:
 - Lexical Analysis: Checks for valid tokens (keywords, identifiers, operators, etc.)
 - Syntax Analysis: Ensures the code follows correct structural rules, like matching parentheses
@@ -19,7 +19,7 @@ This file must be compiled and run to use the application.
 
 These files help demonstrate the MiniCompiler’s ability to identify and handle errors at each stage.
 
-# Developers
+## Developers
 
 &nbsp;&nbsp;&nbsp;&nbsp;Developer 1: [Louise Andrea Tatoy](https://github.com/AndreaTatoy)  
 &nbsp;&nbsp;&nbsp;&nbsp;Developer 2: [Trixie Vea Picaña](https:/github.com/TrixiePicana)  
