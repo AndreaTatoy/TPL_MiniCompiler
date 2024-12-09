@@ -18,3 +18,9 @@ This file must be compiled and run to use the application.
 - TestPassNothing.java - Contains code that fails all stages of analysis  
 
 These files help demonstrate the MiniCompiler’s ability to identify and handle errors at each stage.
+
+# Developers
+
+&nbsp;&nbsp;&nbsp;&nbsp;Developer 1: [Louise Andrea Tatoy](https://github.com/AndreaTatoy)  
+&nbsp;&nbsp;&nbsp;&nbsp;Developer 2: [Trixie Vea Picaña](https:/github.com/TrixiePicana)  
+&nbsp;&nbsp;&nbsp;&nbsp;Tester: [Allen Edward Pangilinan](https://github.com/AllenPangilinan)
